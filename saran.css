@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Lobster&family=Poppins:ital,wght@0,200;0,300;0,500;0,700;0,800;1,200;1,300&display=swap');
+
+.saran-style {
+  font-size: 14px;
+  border-radius: 15px;
+  font-weight: 300;
+  height: 50px;
+}
+.saran2-style {
+  font-size: 14px;
+  border-radius: 15px;
+  font-weight: 300;
+}
+
+.span {
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  color: rgb(255, 5, 5);
+}
+.footer-style {
+  height: 200px;
+}
